@@ -5,7 +5,7 @@ College of Medicine and Public Health, Flinders University, South Australia
 
 ---
 
-I am a registered pharmacist, biostatistician, and researcher applying machine learning and AI-assisted methods to oncology clinical trial data. My PhD focuses on **individualising immune checkpoint inhibitor (ICI) therapy** — moving beyond average trial effects to identify which patients benefit most (or are most at risk of toxicity) from immunotherapy.
+I am a registered pharmacist, biostatistician, and researcher applying machine learning and AI-assisted methods to oncology clinical trial data. My PhD focuses on **individualising immune checkpoint inhibitor (ICI) therapy**, moving beyond average trial effects to identify which patients benefit most (or are most at risk of toxicity) from immunotherapy.
 
 My work combines individual participant data (IPD) meta-analysis, machine-learning causal modelling, and benchmarking of AI coding assistants, using sponsor-released trial datasets from [Vivli](https://vivli.org/) and [Project Data Sphere](https://projectdatasphere.org/).
 
