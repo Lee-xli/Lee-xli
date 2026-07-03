@@ -19,10 +19,10 @@ My work combines individual participant data (IPD) meta-analysis, machine-learni
 | Project | Question | Methods | Status |
 |---|---|---|---|
 | **1** | Do proton-pump inhibitors modify ICI efficacy & toxicity? | IPD meta-analysis, propensity-score weighting, random forest | Pre-submission |
-| **2** | Does baseline prognosis modify ICI treatment response? | XGBoost prognostic score, HTE testing across 10 RCTs | ✅ Published — *JNCI Cancer Spectrum* 2026 | A related methodologically focused paper ✅ Published — *journal of Clinical Epidemiology*2025
-| **3** | Can causal ML predict individual ICI benefit? | Causal forests, meta-learners, Monte Carlo sampling | Underway (collab: Dr Erik Sverdrup, Monash) |
-| **4** | Can AI coding assistants safely replicate expert trial analyses? | Benchmarking LLMs vs reference code; failure-mode audits | Active |
-| **5** | *(forthcoming — fully local)* | | Planned |
+| **2** | Benchmarking statistical and machine learning models for prognosis prediction in cancer trials| ✅ Published — *journal of Clinical Epidemiology*2025|
+| **3** | Does baseline prognosis modify ICI treatment response? | XGBoost prognostic score, HTE testing across 10 RCTs | ✅ Published — *JNCI Cancer Spectrum* 2026|  
+| **4** | Can causal ML predict individual ICI benefit? | Causal forests, meta-learners, Monte Carlo sampling | Underway (collab: Dr Erik Sverdrup, Monash) |
+| **5** | AI coding assistants and RCTs | Active planning |
 
 ---
 
@@ -34,7 +34,7 @@ My work combines individual participant data (IPD) meta-analysis, machine-learni
 4. **Li LX** et al. A lack of association between BMI and chemoimmunotherapy efficacy in advanced NSCLC. *BMC Cancer.* 2024;24(1):379.
 5. Docking JJ, **Li LX** et al. Evaluating the potential of reasoning LLMs to perpetuate racial and gender disease stereotypes in health care. *J Med Internet Res.* 2026;28:e82256.
 
-→ Full list on [Google Scholar](#) *(link to be added)*
+→ Full list on [Google Scholar](https://scholar.google.com/citations?user=oxRoK3kAAAAJ&hl=en) 
 
 ---
 
