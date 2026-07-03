@@ -19,8 +19,8 @@ My work combines individual participant data (IPD) meta-analysis, machine-learni
 | Project | Question | Methods | Status |
 |---|---|---|---|
 | **1** | Do proton-pump inhibitors modify ICI efficacy & toxicity? | IPD meta-analysis, propensity-score weighting, random forest | Pre-submission |
-| **2** | Benchmarking statistical and machine learning models for prognosis prediction in cancer trials|Model calibration and discrimination, Coxph, AFT, CoxBoost, XGBoost, GBM, random survival forest, LASSO, SVM|✅ Published — *journal of Clinical Epidemiology*2025|
-| **3** | Does baseline prognosis modify ICI treatment response? | XGBoost prognostic score, HTE testing across 10 RCTs | ✅ Published — *JNCI Cancer Spectrum* 2026|  
+| **2** | Benchmarking statistical and machine learning models for prognosis prediction in cancer trials | Model calibration and discrimination, Coxph, AFT, CoxBoost, XGBoost, GBM, random survival forest, LASSO, SVM | ✅ Published — *journal of Clinical Epidemiology*2025 |
+| **3** | Does baseline prognosis modify ICI treatment response? | XGBoost prognostic score, HTE testing across 10 RCTs | ✅ Published — *JNCI Cancer Spectrum* 2026 |  
 | **4** | Can causal ML predict individual ICI benefit? | Causal forests, meta-learners, Monte Carlo sampling | Underway (collab: Dr Erik Sverdrup, Monash) |
 | **5** | AI coding assistants and RCTs | Active planning |
 
